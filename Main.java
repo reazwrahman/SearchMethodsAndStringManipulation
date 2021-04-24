@@ -10,7 +10,7 @@ public class Main
         test.TernarySearchTester();
 
         /*Run the bulk test for a specified number of times to reveal any inner bugs*/
-        test.BulkTest(10);
+        //test.BulkTest(10);
 
         // TASK 1
         WorkingWithStringDriver driver1= new WorkingWithStringDriver();
